@@ -1,5 +1,4 @@
-## Nightmare FET Loader CS:GO Cheats Repository
-![](https://img.shields.io/badge/TG-t.me/nightmarefet-brightgreen) ![](https://img.shields.io/badge/support-t.me/txxicangel-critical)
+## FET Loader CS:GO Cheats Repository
 ## How to add it in FET Loader?
  1. Make sure that you using last version of injector
  2. Go to %appdata%\FET Loader\
