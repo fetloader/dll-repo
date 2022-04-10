@@ -1,4 +1,7 @@
 ## FET Loader CS:GO Cheats Repository
+
+## FET Loader is discontinued. See more: https://t.me/ayeloader/1013
+
 ## How to add it in FET Loader?
  1. Make sure that you using last version of injector
  2. Go to %appdata%\FET Loader\
